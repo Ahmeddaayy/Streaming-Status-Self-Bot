@@ -8,7 +8,7 @@ server.all("/", (req, res) => {
 
 function keepAlive() {
   server.listen(3000, () => {
-    console.log("Creator: ItzNexus")
+    console.log("Creator: !        𝑨𝒉𝒎𝒆𝒅. </$  𓆩🍷𓆪")
   })
 }
 
