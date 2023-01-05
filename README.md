@@ -1,4 +1,4 @@
 # Streaming Status
 
-### Made by: Ahmed
+### Made by: Root.#0001
 Streaming Status which stays on your discord profile.
